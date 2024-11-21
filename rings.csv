@@ -1,0 +1,441 @@
+ringId,name,size
+,Solitaire,3
+,Solitaire,3.5
+,Solitaire,4
+,Solitaire,4.5
+,Solitaire,5
+,Solitaire,5.5
+,Solitaire,6
+,Solitaire,6.5
+,Solitaire,7
+,Solitaire,7.5
+,Solitaire,8
+,Solitaire,8.5
+,Solitaire,9
+,Solitaire,9.5
+,Solitaire,10
+,Solitaire,10.5
+,Solitaire,11
+,Solitaire,11.5
+,Solitaire,12
+,Solitaire,12.5
+,Solitaire,13
+,Solitaire,13.5
+,Halo,3
+,Halo,3.5
+,Halo,4
+,Halo,4.5
+,Halo,5
+,Halo,5.5
+,Halo,6
+,Halo,6.5
+,Halo,7
+,Halo,7.5
+,Halo,8
+,Halo,8.5
+,Halo,9
+,Halo,9.5
+,Halo,10
+,Halo,10.5
+,Halo,11
+,Halo,11.5
+,Halo,12
+,Halo,12.5
+,Halo,13
+,Halo,13.5
+,Pave,3
+,Pave,3.5
+,Pave,4
+,Pave,4.5
+,Pave,5
+,Pave,5.5
+,Pave,6
+,Pave,6.5
+,Pave,7
+,Pave,7.5
+,Pave,8
+,Pave,8.5
+,Pave,9
+,Pave,9.5
+,Pave,10
+,Pave,10.5
+,Pave,11
+,Pave,11.5
+,Pave,12
+,Pave,12.5
+,Pave,13
+,Pave,13.5
+,Cluster,3
+,Cluster,3.5
+,Cluster,4
+,Cluster,4.5
+,Cluster,5
+,Cluster,5.5
+,Cluster,6
+,Cluster,6.5
+,Cluster,7
+,Cluster,7.5
+,Cluster,8
+,Cluster,8.5
+,Cluster,9
+,Cluster,9.5
+,Cluster,10
+,Cluster,10.5
+,Cluster,11
+,Cluster,11.5
+,Cluster,12
+,Cluster,12.5
+,Cluster,13
+,Cluster,13.5
+,Three-Stone,3
+,Three-Stone,3.5
+,Three-Stone,4
+,Three-Stone,4.5
+,Three-Stone,5
+,Three-Stone,5.5
+,Three-Stone,6
+,Three-Stone,6.5
+,Three-Stone,7
+,Three-Stone,7.5
+,Three-Stone,8
+,Three-Stone,8.5
+,Three-Stone,9
+,Three-Stone,9.5
+,Three-Stone,10
+,Three-Stone,10.5
+,Three-Stone,11
+,Three-Stone,11.5
+,Three-Stone,12
+,Three-Stone,12.5
+,Three-Stone,13
+,Three-Stone,13.5
+,Infinity,3
+,Infinity,3.5
+,Infinity,4
+,Infinity,4.5
+,Infinity,5
+,Infinity,5.5
+,Infinity,6
+,Infinity,6.5
+,Infinity,7
+,Infinity,7.5
+,Infinity,8
+,Infinity,8.5
+,Infinity,9
+,Infinity,9.5
+,Infinity,10
+,Infinity,10.5
+,Infinity,11
+,Infinity,11.5
+,Infinity,12
+,Infinity,12.5
+,Infinity,13
+,Infinity,13.5
+,Eternity Band,3
+,Eternity Band,3.5
+,Eternity Band,4
+,Eternity Band,4.5
+,Eternity Band,5
+,Eternity Band,5.5
+,Eternity Band,6
+,Eternity Band,6.5
+,Eternity Band,7
+,Eternity Band,7.5
+,Eternity Band,8
+,Eternity Band,8.5
+,Eternity Band,9
+,Eternity Band,9.5
+,Eternity Band,10
+,Eternity Band,10.5
+,Eternity Band,11
+,Eternity Band,11.5
+,Eternity Band,12
+,Eternity Band,12.5
+,Eternity Band,13
+,Eternity Band,13.5
+,Channel Set,3
+,Channel Set,3.5
+,Channel Set,4
+,Channel Set,4.5
+,Channel Set,5
+,Channel Set,5.5
+,Channel Set,6
+,Channel Set,6.5
+,Channel Set,7
+,Channel Set,7.5
+,Channel Set,8
+,Channel Set,8.5
+,Channel Set,9
+,Channel Set,9.5
+,Channel Set,10
+,Channel Set,10.5
+,Channel Set,11
+,Channel Set,11.5
+,Channel Set,12
+,Channel Set,12.5
+,Channel Set,13
+,Channel Set,13.5
+,Bezel Set,3
+,Bezel Set,3.5
+,Bezel Set,4
+,Bezel Set,4.5
+,Bezel Set,5
+,Bezel Set,5.5
+,Bezel Set,6
+,Bezel Set,6.5
+,Bezel Set,7
+,Bezel Set,7.5
+,Bezel Set,8
+,Bezel Set,8.5
+,Bezel Set,9
+,Bezel Set,9.5
+,Bezel Set,10
+,Bezel Set,10.5
+,Bezel Set,11
+,Bezel Set,11.5
+,Bezel Set,12
+,Bezel Set,12.5
+,Bezel Set,13
+,Bezel Set,13.5
+,Tension,3
+,Tension,3.5
+,Tension,4
+,Tension,4.5
+,Tension,5
+,Tension,5.5
+,Tension,6
+,Tension,6.5
+,Tension,7
+,Tension,7.5
+,Tension,8
+,Tension,8.5
+,Tension,9
+,Tension,9.5
+,Tension,10
+,Tension,10.5
+,Tension,11
+,Tension,11.5
+,Tension,12
+,Tension,12.5
+,Tension,13
+,Tension,13.5
+,Vintage,3
+,Vintage,3.5
+,Vintage,4
+,Vintage,4.5
+,Vintage,5
+,Vintage,5.5
+,Vintage,6
+,Vintage,6.5
+,Vintage,7
+,Vintage,7.5
+,Vintage,8
+,Vintage,8.5
+,Vintage,9
+,Vintage,9.5
+,Vintage,10
+,Vintage,10.5
+,Vintage,11
+,Vintage,11.5
+,Vintage,12
+,Vintage,12.5
+,Vintage,13
+,Vintage,13.5
+,Cocktail,3
+,Cocktail,3.5
+,Cocktail,4
+,Cocktail,4.5
+,Cocktail,5
+,Cocktail,5.5
+,Cocktail,6
+,Cocktail,6.5
+,Cocktail,7
+,Cocktail,7.5
+,Cocktail,8
+,Cocktail,8.5
+,Cocktail,9
+,Cocktail,9.5
+,Cocktail,10
+,Cocktail,10.5
+,Cocktail,11
+,Cocktail,11.5
+,Cocktail,12
+,Cocktail,12.5
+,Cocktail,13
+,Cocktail,13.5
+,Signet,3
+,Signet,3.5
+,Signet,4
+,Signet,4.5
+,Signet,5
+,Signet,5.5
+,Signet,6
+,Signet,6.5
+,Signet,7
+,Signet,7.5
+,Signet,8
+,Signet,8.5
+,Signet,9
+,Signet,9.5
+,Signet,10
+,Signet,10.5
+,Signet,11
+,Signet,11.5
+,Signet,12
+,Signet,12.5
+,Signet,13
+,Signet,13.5
+,Stackable,3
+,Stackable,3.5
+,Stackable,4
+,Stackable,4.5
+,Stackable,5
+,Stackable,5.5
+,Stackable,6
+,Stackable,6.5
+,Stackable,7
+,Stackable,7.5
+,Stackable,8
+,Stackable,8.5
+,Stackable,9
+,Stackable,9.5
+,Stackable,10
+,Stackable,10.5
+,Stackable,11
+,Stackable,11.5
+,Stackable,12
+,Stackable,12.5
+,Stackable,13
+,Stackable,13.5
+,Split Shank,3
+,Split Shank,3.5
+,Split Shank,4
+,Split Shank,4.5
+,Split Shank,5
+,Split Shank,5.5
+,Split Shank,6
+,Split Shank,6.5
+,Split Shank,7
+,Split Shank,7.5
+,Split Shank,8
+,Split Shank,8.5
+,Split Shank,9
+,Split Shank,9.5
+,Split Shank,10
+,Split Shank,10.5
+,Split Shank,11
+,Split Shank,11.5
+,Split Shank,12
+,Split Shank,12.5
+,Split Shank,13
+,Split Shank,13.5
+,Pear-Shaped,3
+,Pear-Shaped,3.5
+,Pear-Shaped,4
+,Pear-Shaped,4.5
+,Pear-Shaped,5
+,Pear-Shaped,5.5
+,Pear-Shaped,6
+,Pear-Shaped,6.5
+,Pear-Shaped,7
+,Pear-Shaped,7.5
+,Pear-Shaped,8
+,Pear-Shaped,8.5
+,Pear-Shaped,9
+,Pear-Shaped,9.5
+,Pear-Shaped,10
+,Pear-Shaped,10.5
+,Pear-Shaped,11
+,Pear-Shaped,11.5
+,Pear-Shaped,12
+,Pear-Shaped,12.5
+,Pear-Shaped,13
+,Pear-Shaped,13.5
+,Heart-Shaped,3
+,Heart-Shaped,3.5
+,Heart-Shaped,4
+,Heart-Shaped,4.5
+,Heart-Shaped,5
+,Heart-Shaped,5.5
+,Heart-Shaped,6
+,Heart-Shaped,6.5
+,Heart-Shaped,7
+,Heart-Shaped,7.5
+,Heart-Shaped,8
+,Heart-Shaped,8.5
+,Heart-Shaped,9
+,Heart-Shaped,9.5
+,Heart-Shaped,10
+,Heart-Shaped,10.5
+,Heart-Shaped,11
+,Heart-Shaped,11.5
+,Heart-Shaped,12
+,Heart-Shaped,12.5
+,Heart-Shaped,13
+,Heart-Shaped,13.5
+,Nature-Inspired,3
+,Nature-Inspired,3.5
+,Nature-Inspired,4
+,Nature-Inspired,4.5
+,Nature-Inspired,5
+,Nature-Inspired,5.5
+,Nature-Inspired,6
+,Nature-Inspired,6.5
+,Nature-Inspired,7
+,Nature-Inspired,7.5
+,Nature-Inspired,8
+,Nature-Inspired,8.5
+,Nature-Inspired,9
+,Nature-Inspired,9.5
+,Nature-Inspired,10
+,Nature-Inspired,10.5
+,Nature-Inspired,11
+,Nature-Inspired,11.5
+,Nature-Inspired,12
+,Nature-Inspired,12.5
+,Nature-Inspired,13
+,Nature-Inspired,13.5
+,Celtic,3
+,Celtic,3.5
+,Celtic,4
+,Celtic,4.5
+,Celtic,5
+,Celtic,5.5
+,Celtic,6
+,Celtic,6.5
+,Celtic,7
+,Celtic,7.5
+,Celtic,8
+,Celtic,8.5
+,Celtic,9
+,Celtic,9.5
+,Celtic,10
+,Celtic,10.5
+,Celtic,11
+,Celtic,11.5
+,Celtic,12
+,Celtic,12.5
+,Celtic,13
+,Celtic,13.5
+,Minimalist,3
+,Minimalist,3.5
+,Minimalist,4
+,Minimalist,4.5
+,Minimalist,5
+,Minimalist,5.5
+,Minimalist,6
+,Minimalist,6.5
+,Minimalist,7
+,Minimalist,7.5
+,Minimalist,8
+,Minimalist,8.5
+,Minimalist,9
+,Minimalist,9.5
+,Minimalist,10
+,Minimalist,10.5
+,Minimalist,11
+,Minimalist,11.5
+,Minimalist,12
+,Minimalist,12.5
+,Minimalist,13
+,Minimalist,13.5
