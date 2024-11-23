@@ -1,13 +1,25 @@
 import csv
+import random
+import string
 
-with open('rings.csv', 'w', newline='') as file:
+with open('products.csv', 'w', newline='') as file:
     writer = csv.writer(file)
-    field = ["ringId", "name", "size"]
-    rings = ["Solitaire", "Halo", "Pave", "Cluster", "Three-Stone", "Infinity", "Eternity Band", "Channel Set",
-             "Bezel Set", "Tension", "Vintage", "Cocktail", "Signet", "Stackable", "Split Shank", "Pear-Shaped",
-             "Heart-Shaped", "Nature-Inspired", "Celtic", "Minimalist"]
-    sizes = [3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5]
+    field = ["productId", "creatorId", "ringId", "necklaceId", "gemId", "metalId", "type", "name", "mass", "price"]
     writer.writerow(field)
-    for i in range(len(rings)):
-        for j in range(len(sizes)):
-            writer.writerow(["", rings[i], sizes[j]])
+    random.randint(0,1)
+    for i in range(100):
+        name = ''.join(random.choices(string.ascii_lowercase, k=(random.randint(4,10))))
+        if random.randint(0,2) == 0:
+            rings = random.randint(1,441)
+            necklaces = ""
+            jewelryType = "Ring"
+        else:
+            rings = ""
+            necklaces = random.randint(1,23)
+            jewelryType = "Necklace"
+
+        gemId = random.randint(0, 49)
+        if gemId == 0:
+            gemId = ""
+
+        writer.writerow(["", random.randint(1,1442), rings, necklaces, gemId, random.randint(1, 29), jewelryType, name, "",""])
