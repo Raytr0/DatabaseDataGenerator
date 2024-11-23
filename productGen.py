@@ -11,15 +11,15 @@ with open('products.csv', 'w', newline='') as file:
         name = ''.join(random.choices(string.ascii_lowercase, k=(random.randint(4,10))))
         if random.randint(0,2) == 0:
             rings = random.randint(1,441)
-            necklaces = ""
+            necklaces = "NULL"
             jewelryType = "Ring"
         else:
-            rings = ""
+            rings = "NULL"
             necklaces = random.randint(1,23)
             jewelryType = "Necklace"
 
         gemId = random.randint(0, 49)
         if gemId == 0:
-            gemId = ""
+            gemId = "NULL"
 
         writer.writerow(["", random.randint(1,1442), rings, necklaces, gemId, random.randint(1, 29), jewelryType, name, "",""])
